@@ -1,7 +1,7 @@
 # FirstGame
 
 
-http://hubertmichna.pl:8082/
+http://hubertmichna.pl/Meteors/
 
 q:shield
 space: ultimate
